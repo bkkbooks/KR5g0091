@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR5g0091/ZTDZ/v1
+canonical_location: https://kanripo.org/bkk/KR5g0091/ZTDZ/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 高上神霄宗師受經式
+  date: '2015-08-29 02:53:59.280227'
+  source:
+    repository: kanripo
+    path: KR5g0091
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+  edition:
+    short: ZTDZ
+    label: 【正統道藏・三家本】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5g0091_000-ZTDZ.yaml, hash: 'sha256:b710eef67fbef38ec3b0ea17c17d9587f7b0f7b2d0844cd03fec1d65a77ae1a2'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5g0091_000-ZTDZ.markers.yaml, hash: 'sha256:53df790eb398936e6ac92b80f322597eea57694b025eab1d923e8c4c7b5fe8a8'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5g0091_SJB_000-320637a
+    span:
+    - body
+    - 0
+    - 775
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:cf5ad72b5fe6f52e0594e10f0d80c28b7d3e2b0cd8bec0bd8f4f1808bb7199c6
